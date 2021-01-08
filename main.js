@@ -89,3 +89,7 @@ circle(540, 160, 80);
 
 
 }
+function snapshot()
+{
+  save("photo.png");
+}
